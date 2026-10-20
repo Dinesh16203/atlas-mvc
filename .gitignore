@@ -1,0 +1,18 @@
+# Visual Studio user and workspace state
+.vs/
+**/.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+backend/Atlas.Web/App_Data/
+backend/Atlas.Web/wwwroot/
+*.db
+*.db-shm
+*.db-wal
+.env
